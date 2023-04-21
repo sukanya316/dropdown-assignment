@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
+}
+
+.drop-down-container {
+  height: 30vw;
+  width: 30vw;
+  border-radius: 1px solid gray;
+  background-color: aliceblue;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
